@@ -1,0 +1,300 @@
+body {
+	background-color: #F1F1F1;
+
+}
+
+.dor {
+	background-image: url(japaotres.jpg);
+	background-repeat: no-repeat;
+	margin: 10px;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+
+.lagrimas {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.sozinho {
+	color: black;
+	padding: 3px;
+	margin: 20px;
+	text-decoration: none;
+}
+
+.sozinho:hover {
+	background-color: #CCCCC2;
+	transition: 300ms;
+}
+
+.solidao {
+	color: #F1F1F1;
+	padding: 3px;
+	margin: 20px;
+	text-decoration: none;
+}
+
+.solidao:hover {
+	background-color: #CCCCC2;
+	transition: 300ms;
+}
+
+#triste {
+	color: black;
+	margin: 20px;
+	border: 1px solid black;
+	padding: 3px;
+	text-decoration: none; 
+}
+
+#triste:hover {
+background-color: #CCCCC2;	
+box-shadow: 5px 5px 5px #CCC;
+transition: 300ms;
+}
+
+#tristeza {
+	color: #F1F1F1;
+	margin: 20px;
+	border: 1px solid black;
+	padding: 3px;
+	text-decoration: none; 
+	
+}
+
+#tristeza:hover {	
+background-color: #CCCCC2;
+transition: 300ms;
+}
+
+.decepcao {
+	margin-top: 100px;
+	font-size: 50px;
+	color: #F1F1F1;
+}
+
+.desanimo {
+	margin-top: 20px;
+	margin-bottom: 300px;
+	font-size: 20px;
+	color: #F1F1F1;
+}
+
+.depre {
+	background-color: #DBD8D7;
+}
+
+.depre:hover {
+	background-color: #EBE3FD;
+	transition: 300ms;
+}
+
+.desalento {
+	margin-top: 40px;
+}
+
+.aflicao {
+	padding: 50px 50px 0 50px;
+	text-align: center;
+	font-size: 40px;
+	margin-bottom: 10px;
+}
+
+.desgosto {
+	margin: 50px 0 50px 0;
+	display: flex;
+	justify-content: center;
+}
+
+.deploravel {
+	background-color: lightblue;
+	text-decoration: none;
+	border: 1px solid black;
+	padding: 80px 60px 80px 60px;
+	margin: 0 10px 100px 10px;
+}
+
+.deploravel:hover {
+	background-color: #A5CCF5;
+	border-color: #F56943;
+	box-shadow: 5px 5px 5px #CCC;
+	transition: 300ms;
+}
+
+.estresse {
+	display: flex;
+	border:1px solid black;
+	margin-bottom: 20px;
+}
+
+.estresse:hover {
+	background-color: #D6D3D2;
+	transition: 300ms;
+}
+
+.lamentavel {
+ margin: 0 50px 0 50px;
+}
+
+
+.infeliz {
+	background-color: lightgray;
+	display: flex;
+	margin: 0 30px 0 30px;
+	border: 1px solid black;
+}
+
+.angustia {
+	background-color: #F3F3F3;
+	font-size: 50px;
+	border: 1px solid black;
+	padding: 60px; 
+	margin: 20px 20px 20px 200px;
+}
+
+.angustia:hover {
+	background-color: #CCCCC2;
+	transition: 300ms;
+}
+
+.frieza {
+	background-color: #F3F3F3;
+	border: 1px solid black;
+	padding: 50px; 
+	margin: 20px;
+	font-size: 50px;
+}
+
+.frieza:hover {
+	background-color: #CCCCC2;
+	transition: 300ms;
+}
+
+.tragico {
+	background-color: #D9D3D0;
+	padding: 100px 0 100px 0;
+	margin: 30px;
+	border: 1px solid black;
+}
+
+.injusto:hover {
+	background-color: #CCCCC2;
+	transition: 300ms;
+}
+
+.injusto {
+	background-color: #F4F4F4;
+	margin: 0 100px 0 100px;
+	border: 1px solid black;
+	padding: 10px;
+}
+
+.paragrafo {
+	font-size: 20px;
+}
+
+.titulo {
+	font-size: 30px;
+}
+
+.hiragana {
+	margin: 20px; 
+}
+
+.beneficios {
+	opacity: 0.7;
+	background-color: lightblue;
+	margin: auto;
+	margin-top: 20px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding-right: 30px;
+} 
+
+.beneficios-li {
+	display: flex;
+	margin: 20px;
+	width: 320px;
+	font-family: 'Mali', cursive;
+	color: white;
+} 
+
+#imagem {
+	margin-bottom: 80px;
+	width: 48px;
+}
+
+.proximo {
+	background-color: #F1F1F1;
+	padding: 10px 15px 0 15px;
+	margin: 20px;
+	border: 1px solid black;
+}
+
+.proximo:hover {
+	background-color: #D6D3D2;
+	transition: 300ms;
+}
+
+.nave {
+	display: flex;
+	justify-content: space-between;
+}
+
+.dicas {
+	width: 90%;
+	background-color: #FF4A4A;
+	text-align: center;
+	color: #F1F1F1;
+	padding-top: 50px;
+	padding-bottom: 100px;
+	margin-top: 50px;
+}
+
+.titulo-dica {
+	font-size: 30px;
+	padding-top: 50px;
+}
+
+.p-dica {
+	font-size: 20px;
+	margin-top: 10px;
+}
+
+.dica-um {
+	display: flex;
+	justify-content: space-around;
+	margin-top: 200px;
+}
+
+.titulo-dica-um {
+	font-size: 40px;
+	padding: 30px;
+	color: green;
+}
+
+.p-dica-um {
+	font-size: 40px;
+	padding: 30px;
+}
+}
+
+/* parte mobile */
+
+@media screen and (max-width: 700px) {
+
+.japaocinco {
+	width: 0%;
+}
+
+.cor {
+	background-color: lightblue;
+}
+
+.deploravel {
+	padding: 70px 50px 70px 50px;
+}
+}
